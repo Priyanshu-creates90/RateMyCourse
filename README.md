@@ -30,14 +30,6 @@ As a new project, there's currently no code to look at, but you can still get in
 
 ---
 
-## 👥 Maintainers
-
-- [@amaydixit11](https://github.com/amaydixit11)  
-- [@rajeev-sr](https://github.com/rajeev-sr)  
-- [@divyansh1705](https://github.com/divyansh1705)  
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
